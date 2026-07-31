@@ -10,7 +10,6 @@ El presente repositorio corresponde al trabajo final de recuperacion del semestr
 - **Semestre:** II
 - **Clase:** Programación I
 
-
 **Datos del estudiante**
 
 - **Nombre:** Ivan Santiago Bejarano Sua
