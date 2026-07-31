@@ -1,0 +1,3 @@
+Estado de Equipos INTEP
+Equipos disponibles: 1
+Equipos en mantenimiento: 4
